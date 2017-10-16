@@ -3,9 +3,11 @@ export default `
 
 ### _a weird project I made and what it taught me_
 
-Chris Bolin, Formidable
+Chris Bolin, [Formidable](https://formidable.com)
 
-@bolinchris
+[@bolinchris](https://twitter.com/bolinchris)
+
+**ReactJS Denver, October 2017**
 
 ---
 
@@ -144,7 +146,7 @@ og:image "https://chris.bolin.co/offline/preview.png"
 # Editing Foreign Text 🌏
 
 - Beware of autocorrect
-- Editing right-to-left is very hard
+- Editing right-to-left text is very hard
 - Google Translate is your friend
 
 ---
@@ -167,7 +169,9 @@ og:image "https://chris.bolin.co/offline/preview.png"
 
 📫 [chris.bolin@formidable.com](mailto:chris.bolin@formidable.com)
 
-🖥 [formidable.com](https://formidable.com)
+🌎 [formidable.com](https://formidable.com)
+
+🖥 [bit.ly/offline-denver](http://bit.ly/offline-denver)
 
 `;
 

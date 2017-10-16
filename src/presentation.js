@@ -17,7 +17,7 @@ const theme = createTheme({
   primary: "white", // background
   secondary: "hsl(60, 1%, 16%)", // text
   tertiary: "#03A9FC",
-  quarternary: "hsla(351, 100%, 86%, 0.5)" // progress bar
+  quarternary: "deeppink" // progress bar
 }, {
   primary: { name: "Work Sans", googleFont: true, styles: [ "400", "700" ] },
 });
