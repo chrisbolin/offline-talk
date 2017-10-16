@@ -16,6 +16,7 @@ a:hover {
 
 ::selection {
 	background-color: lightpink;
+	color: white;
 }
 
 pre {

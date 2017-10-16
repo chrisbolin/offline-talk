@@ -14,8 +14,8 @@ require("spectacle/lib/themes/default/index.css");
 require("./style.css");
 
 const theme = createTheme({
-  primary: "hsl(60, 1%, 16%)", // background
-  secondary: "hsl(208, 71%, 96%)", // text
+  primary: "white", // background
+  secondary: "hsl(60, 1%, 16%)", // text
   tertiary: "#03A9FC",
   quarternary: "rgba(255,255,255,0.2)" // progress bar
 }, {
