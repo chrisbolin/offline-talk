@@ -7,7 +7,7 @@ Chris Bolin, [Formidable](https://formidable.com)
 
 [@bolinchris](https://twitter.com/bolinchris)
 
-**ReactJS Denver, October 2017**
+React Denver, October 2017
 
 ---
 
@@ -80,11 +80,10 @@ Chris Bolin, [Formidable](https://formidable.com)
 
 # Open Graph 🖼
 
-[Key/Value pairs](http://ogp.me/) that provide content previews
+[Meta tags](http://ogp.me/) that provide previews for Twitter, FB, Slack...
 
 \`\`\`
-<meta property="og:type" content="article" />
-og:title "Offline Only"
+<meta property="og:title" content="Offline Only" />
 og:description "Disconnection can be good."
 og:url "https://chris.bolin.co/offline/"
 og:image "https://chris.bolin.co/offline/preview.png"
@@ -96,7 +95,7 @@ og:image "https://chris.bolin.co/offline/preview.png"
 
 # Twitter 🐤
 
-- Use TweetDeck
+- Use [TweetDeck](https://tweetdeck.twitter.com)
 - Search for your URL
 - Reach out if someone posts your project
 
@@ -175,15 +174,3 @@ og:image "https://chris.bolin.co/offline/preview.png"
 🖥 slides: [bit.ly/offline-denver](http://bit.ly/offline-denver)
 
 `;
-
-/*
-NOTES
-
-Understand the platform (e.g. don't make too many comments on HN)
-
-HTTPS is good for SEO, possibly social media
-
-Translated into 9 languages (including English)
-
-
-*/
