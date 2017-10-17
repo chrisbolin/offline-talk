@@ -5,13 +5,14 @@ ul {
 
 a {
 	color: inherit;
-	transition: color 400ms ease-out;
+	transition: color 400ms ease-out, background-color 400ms ease-out;
 	text-decoration: none;
   border-bottom: 4px solid deeppink;
 }
 
 a:hover {
-	color: deeppink;
+	color: white;
+	background-color: deeppink;
 }
 
 ::selection {
@@ -24,9 +25,9 @@ pre {
 	text-align: left;
 }
 
+img[alt~="react-detect-offline"] { width: 70vw; }
 img[alt~="opengraph"] { width: 45vw; }
-img[alt~="react-detect-offline"] { width: 80vw; }
 img[alt~="ga"] { width: 40vw; }
-img[alt~="react-detect-offline"] { width: 60vw; }
+img[alt~="reddit"] { width: 80vw; }
 img[alt~="skycoins"] { width: 30vw; }
-img[alt~="translation"] { width: 30vw; }
+img[alt~="translation"] { width: 40vw; }

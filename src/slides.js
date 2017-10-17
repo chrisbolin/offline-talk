@@ -1,5 +1,5 @@
 export default `
-# Offline Only 🌟
+# ✨Offline Only✨
 
 ### _a weird project I made and what it taught me_
 
@@ -11,7 +11,7 @@ Chris Bolin, [Formidable](https://formidable.com)
 
 ---
 
-# What to Expect ✨
+# What to Expect ✅
 
 - Browsers' Offline API
 - Service Workers
@@ -51,10 +51,10 @@ Chris Bolin, [Formidable](https://formidable.com)
 # Open Source Your Work 📖
 
 - Sign of good faith
-- Provides an easy answer to point to
-- Have reusable, general-interest code? Make a library
+- Provides a convenient answer to point to
+- Reusable, general-interest code? Make a library
 - I open-sourced both the website and a library
-- Library simple at first, then ideally grow
+- Library is simple at first; will ideally grow
 
 ---
 
@@ -72,24 +72,25 @@ Chris Bolin, [Formidable](https://formidable.com)
 - Find a popular friend to post or retweet
 - Tag the technologies you used
 - Engage with others
-- Understand the platform
-- Add Opengraph html tags for social media previews
+- Understand the specific platforms
+- Press will usually reach largest audience
+- Add Open Graph tags for social media previews
 
 ---
 
-# Opengraph 🖼
+# Open Graph 🖼
 
-![opengraph](./opengraph.png)
+[Key/Value pairs](http://ogp.me/) that provide content previews
 
 \`\`\`
 <meta property="og:type" content="article" />
-
 og:title "Offline Only"
 og:description "Disconnection can be good."
 og:url "https://chris.bolin.co/offline/"
 og:image "https://chris.bolin.co/offline/preview.png"
 \`\`\`
 
+![opengraph](./opengraph.png)
 
 ---
 
@@ -106,7 +107,7 @@ og:image "https://chris.bolin.co/offline/preview.png"
 ![ga](./ga.png)
 
 - Are you ready if things go well?
-- CDNs (domestic and international)
+- CDNs - domestic & international. (I use [Cloudflare](https://www.cloudflare.com))
 - Scaling servers and databases
 - HTTPS
 
@@ -134,16 +135,16 @@ og:image "https://chris.bolin.co/offline/preview.png"
 # Internationalization 🌍
 
 - People might volunteer to translate your work
-- Translation is hard (and they aren't professionals)
-- People are bad at proofreading (expect late revisions)
+- Translation is hard, and they aren't professionals
+- People are bad at proofreading - expect late revisions
 - A multi-language codebase is not trivial
 - _But you can reach a whole new audience_
 
-![translation](https://media.giphy.com/media/l1J9IyGIVkqCg0k80/giphy.gif)
+![translation](./translation.gif)
 
 ---
 
-# Editing Foreign Text 🌏
+# Editing Foreign Text 📝
 
 - Beware of autocorrect
 - Editing right-to-left text is very hard
@@ -153,13 +154,13 @@ og:image "https://chris.bolin.co/offline/preview.png"
 
 # Takeaways 🍱
 
-- The web is an amazing playground for experimentation
+- The web is an amazing place for experimentation
 - Use \`create-react-app\` (especially on small projects)
 - Usually no one will care about your work
-- But be prepared: use opengraph, HTTPS, and CDNs
+- But be prepared: use Open Graph, HTTPS, and CDNs
 - Trolls are real
 - Internationalization is hard, but can open doors
-- Have fun, darnit
+- **Have fun, darnit**
 
 ---
 
@@ -171,7 +172,7 @@ og:image "https://chris.bolin.co/offline/preview.png"
 
 🌎 [formidable.com](https://formidable.com)
 
-🖥 [bit.ly/offline-denver](http://bit.ly/offline-denver)
+🖥 slides: [bit.ly/offline-denver](http://bit.ly/offline-denver)
 
 `;
 
@@ -182,7 +183,7 @@ Understand the platform (e.g. don't make too many comments on HN)
 
 HTTPS is good for SEO, possibly social media
 
-Translated into 9 languages
+Translated into 9 languages (including English)
 
 
 */
