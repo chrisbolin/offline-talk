@@ -30,6 +30,7 @@ export default class Presentation extends React.Component {
 				transitionDuration={800}
 				theme={theme}
 				progress="bar"
+				controls={false}
 			>
 				{MarkdownSlides(slidesMarkdown)}
       </Deck>

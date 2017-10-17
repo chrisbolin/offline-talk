@@ -17,8 +17,8 @@ React Denver, October 2017
 - Service Workers
 - Open sourcing your work
 - Promoting a project
-- Prepare for the best (Traffic)
-- Brace for the worst (Trolls)
+- Preparing for the best
+- Bracing for the worst
 - Internationalization
 
 ---
@@ -31,6 +31,7 @@ React Denver, October 2017
 
 # Offline API 🔌
 
+- Monitor the state of the device's connection
 - \`navigator.onLine\`
 - \`online\` and \`offline\` [events](https://developer.mozilla.org/en-US/docs/Online_and_offline_events)
 - Broad support - 94% worldwide traffic, 98% US
@@ -107,8 +108,8 @@ og:image "https://chris.bolin.co/offline/preview.png"
 
 - Are you ready if things go well?
 - CDNs - domestic & international. (I use [Cloudflare](https://www.cloudflare.com))
+- HTTPS / SSL
 - Scaling servers and databases
-- HTTPS
 
 ---
 
@@ -134,10 +135,10 @@ og:image "https://chris.bolin.co/offline/preview.png"
 # Internationalization 🌍
 
 - People might volunteer to translate your work
-- Translation is hard, and they aren't professionals
-- People are bad at proofreading - expect late revisions
-- A multi-language codebase is not trivial
-- _But you can reach a whole new audience_
+- Translation is hard; proofreading is hard
+- Small features help: autodetect, sharable links
+- Multi-language code can be complex
+- _...but you can reach a whole new audience_
 
 ![translation](./translation.gif)
 
@@ -146,8 +147,8 @@ og:image "https://chris.bolin.co/offline/preview.png"
 # Editing Foreign Text 📝
 
 - Beware of autocorrect
-- Editing right-to-left text is very hard
 - Google Translate is your friend
+- Editing right-to-left text is very hard
 
 ---
 
@@ -157,7 +158,7 @@ og:image "https://chris.bolin.co/offline/preview.png"
 - Use \`create-react-app\` (especially on small projects)
 - Usually no one will care about your work
 - But be prepared: use Open Graph, HTTPS, and CDNs
-- Trolls are real
+- Trolls are real, so choose your battles wisely
 - Internationalization is hard, but can open doors
 - **Have fun, darnit**
 
