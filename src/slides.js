@@ -176,6 +176,6 @@ og:image "https://chris.bolin.co/offline/preview.png"
 
 🌎 [formidable.com](https://formidable.com)
 
-🖥 slides: [bit.ly/offline-denver](http://bit.ly/offline-denver)
+🖥 slides: [bolin.co/offline-talk](http://bolin.co/offline-talk)
 
 `;
