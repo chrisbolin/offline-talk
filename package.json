@@ -16,5 +16,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-	"homepage": "https://chris.bolin.co/offline-denver-2017/"
+  "homepage": "https://chris.bolin.co/offline-talk/"
 }
